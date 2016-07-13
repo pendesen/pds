@@ -1,6 +1,6 @@
 import java.io.*;
  
-// File Encode Transform
+// File Encode Transform 
 public class FileEncode {
 	private String srcDir;
 	private String desDir;
