@@ -1,7 +1,7 @@
 import java.io.UnsupportedEncodingException;
 
 
-public class CharEncode {
+public class CharEncode {    
 	public static void main(String[] args) throws Exception
 	{
 //		String str="Hello 汉字";
