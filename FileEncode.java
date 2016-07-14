@@ -8,7 +8,7 @@ public class FileEncode {
 	public static void main(String[] args) throws Exception
 	{
 		
-		String srcdir="C:/pds/wid/wid-source/java";	
+		String srcdir="C:/pds/wid/wid-source/java";
 		
 		FileEncode fileEncode = new FileEncode(srcdir);
 		fileEncode.dirProcess(srcdir);
